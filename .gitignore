@@ -16,3 +16,5 @@ crash.log
 #
 # example.tfvars
 /*.secret.tf
+
+/.idea
